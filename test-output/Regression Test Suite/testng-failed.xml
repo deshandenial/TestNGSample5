@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="1" parallel="tests" name="Failed suite [Regression Test Suite]" guice-stage="DEVELOPMENT" verbose="3">
+  <test thread-count="1" parallel="tests" name="LetCode UI Test(failed)" verbose="3">
+    <classes>
+      <class name="com.qa.practice.tests.UI_Page_Test">
+        <methods>
+          <include name="tearDown"/>
+          <include name="setUp"/>
+          <include name="AlertTest"/>
+          <include name="buttonTest"/>
+          <include name="selectTest"/>
+          <include name="inputTest"/>
+        </methods>
+      </class> <!-- com.qa.practice.tests.UI_Page_Test -->
+    </classes>
+  </test> <!-- LetCode UI Test(failed) -->
+</suite> <!-- Failed suite [Regression Test Suite] -->

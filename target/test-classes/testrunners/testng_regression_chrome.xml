@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="Regression Test Suite" thread-count="1" parallel="tests" verbose="3">
+
+
+	
+	<test name="LetCode UI Test">
+		
+		<classes>
+			<class name="com.qa.practice.tests.UI_Page_Test" />
+		</classes>
+	</test>
+	
+	
+
+
+</suite>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-06-06T15:50:19Z" name="Default suite" finished-at="2021-06-06T15:50:48Z" duration-ms="28551">
+    <groups>
+    </groups>
+    <test started-at="2021-06-06T15:50:19Z" name="Default test" finished-at="2021-06-06T15:50:48Z" duration-ms="28551">
+      <class name="com.qa.practice.tests.UI_Page_Test">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.qa.practice.tests.UI_Page_Test@5733f295]" started-at="2021-06-06T15:50:19Z" name="setUp" finished-at="2021-06-06T15:50:33Z" duration-ms="13079" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="AccSetUp()[pri:0, instance:com.qa.practice.tests.UI_Page_Test@5733f295]" started-at="2021-06-06T15:50:33Z" name="AccSetUp" finished-at="2021-06-06T15:50:35Z" duration-ms="2505" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AccSetUp -->
+        <test-method signature="inputTest()[pri:1, instance:com.qa.practice.tests.UI_Page_Test@5733f295]" started-at="2021-06-06T15:50:35Z" name="inputTest" finished-at="2021-06-06T15:50:38Z" duration-ms="2446" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- inputTest -->
+        <test-method signature="buttonTest()[pri:2, instance:com.qa.practice.tests.UI_Page_Test@5733f295]" started-at="2021-06-06T15:50:38Z" name="buttonTest" finished-at="2021-06-06T15:50:38Z" duration-ms="538" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- buttonTest -->
+        <test-method signature="selectTest()[pri:3, instance:com.qa.practice.tests.UI_Page_Test@5733f295]" started-at="2021-06-06T15:50:38Z" name="selectTest" finished-at="2021-06-06T15:50:39Z" duration-ms="961" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectTest -->
+        <test-method signature="AlertTest()[pri:4, instance:com.qa.practice.tests.UI_Page_Test@5733f295]" started-at="2021-06-06T15:50:39Z" name="AlertTest" finished-at="2021-06-06T15:50:45Z" duration-ms="6090" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AlertTest -->
+        <test-method signature="FramesTest()[pri:5, instance:com.qa.practice.tests.UI_Page_Test@5733f295]" started-at="2021-06-06T15:50:45Z" name="FramesTest" finished-at="2021-06-06T15:50:47Z" duration-ms="1658" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FramesTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.qa.practice.tests.UI_Page_Test@5733f295]" started-at="2021-06-06T15:50:47Z" name="tearDown" finished-at="2021-06-06T15:50:48Z" duration-ms="940" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qa.practice.tests.UI_Page_Test -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
